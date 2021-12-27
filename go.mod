@@ -1,4 +1,4 @@
-module github.com/Not-Cyrus/castle
+module github.com/cs-bic/castle
 
 go 1.17
 
