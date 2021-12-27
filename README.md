@@ -28,7 +28,7 @@ package main
 import (
 	"crypto/sha512"
 	"fmt"
-	"yourmodule/castle"
+	"github.com/cs-bic/castle"
 )
 func main() {
 	block := 100
